@@ -1,0 +1,144 @@
+.bg-brown{
+    background: rgb(74, 36, 22);
+}
+.navbar-brand{
+    color: beige;
+}
+.nav-link{
+    color: beige;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color:beige;
+    border-color: beige;
+}
+
+.btn-secondary{
+    color: rgb(74, 36, 22);
+    position: relative;
+}
+.dropdown-toggle{
+    color:rgb(74, 36, 22);
+    position: relative;
+}
+.navbar-toggler-icon{
+    color: beige;
+}
+.navbar-toggler{
+    color: beige;
+}
+
+.navbar-collapse{
+    color: beige;
+}
+.dropdown-menu{
+    color: rgb(74, 36, 22);
+    position: relative;
+}
+.dropdown-item{
+    color:rgb(74, 36, 22);
+    position: relative;
+}
+.bg-brown{
+    color: rgb(74, 36, 22);
+
+}
+
+
+
+.typing {
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    width: 0;
+    height:100px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 3s forwards steps(11), caret 1s infinite both steps(1);
+    background-color:rgb(74, 36, 22);
+    margin-bottom: -0.5rem;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 1920px;
+    }
+}
+
+@keyframes caret {
+    from {
+        border-right: 5px solid rgb(74, 36, 22);
+    }
+    50% {
+        border-right: 5px solid transparent;
+    }
+}
+.fw-normal {
+color: beige;
+}
+.text-muted {
+    color:beige!important;
+}
+
+.container {
+    background-color:rgb(74, 36, 22);
+   background-size:contain;
+    max-width: 1920px;
+}
+
+.text-center{
+    color: beige;
+}
+.featurette-heading{
+    color: beige;
+}
+
+.lead{
+    color: beige;
+}
+.card{
+    padding-left: 20px;
+}
+
+.mb-3{
+    color: beige;
+}
+
+.form-label{
+    color: beige;
+}
+
+.btn-primary {
+    color: rgb(74, 36, 22);
+    background-color:beige;
+    border-color: beige;
+    border-radius: 15rem;
+}
+
+.text-primary{
+    color: beige!important;
+}
+
+.text-muted1{
+    color: #198754!important;
+}
+
+.link-secondary{
+    color: rgba(111, 54, 33, 0.87);
+}
+
+.cursor{
+    position: fixed;
+    pointer-events: none;
+}
+
+.container2{
+    background-color:rgb(74, 36, 22);
+    background-size:contain;
+     max-width: 1920px;
+     max-height: 1080px;
+}
